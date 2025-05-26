@@ -1,6 +1,6 @@
 # web-assignment
 
-DESCRIPTION  OF MODERNIZED FARMING & CATTLE TSS SCHOOL'S BUSINESS PROJECT 
+DESCRIPTION  OF MODERNIZED FARMING & CATTLE TSS SCHOOL'S BUSINESS PROJECT</br> 
 Welcome to the Modernized Farming & Cattle TSS School's Business website, 
 where we are dedicated to transforming agriculture in Rwanda. Our mission is to 
 empower local farmers with innovative cattle management techniques, modern 
@@ -10,7 +10,7 @@ more about our project, connect with us, send messages, share suggestions, and
 ask for clarification. Whether starting fresh or seeking more information, we 
 provide the support needed to help users grow and succeed in their farming 
 journey. 
-THE HOME PAGE   
+THE HOME PAGE </br>  
 Introduces our mission to revolutionize the agricultural sector with innovative, 
 sustainable solutions. We focus on advancing cattle management and modern 
 farming practices to create a profitable and eco-friendly future for farmers. By 
@@ -23,7 +23,7 @@ sustainability to minimize environmental impact. Through ongoing support and
 education, we help farmers achieve long-term success, fostering a forward
 thinking community dedicated to shaping a sustainable and profitable agricultural 
 future. 
-ABOUT US 
+ABOUT US</br> 
 At Modernized Farming & Cattle Business, our journey began with a vision to 
 revolutionize agriculture in Rwanda, bringing innovation and sustainability to local 
 farming practices. Our mission is to empower farmers by providing advanced 
@@ -37,8 +37,8 @@ community support, education, and providing farmers with the resources they
 need to thrive. Through continuous innovation and a focus on sustainable 
 practices, we are shaping the future of agriculture in Rwanda and ensuring that 
 local farmers are equipped for long-term success. 
-OUR PREMIUM BEEF AND DAIRY PRODUCTS 
-Beef Cattle Products 
+OUR PREMIUM BEEF AND DAIRY PRODUCTS </br>
+Beef Cattle Products </br>
 At Modernized Farming & Cattle Business, we offer premium beef products that 
 reflect the highest standards of quality. Our beef comes from the finest cattle, 
 raised with care and expertise to ensure rich, tender cuts. Our extensive range 
@@ -49,7 +49,7 @@ taste. Whether you're grilling a steak or preparing a quick meal, our beef produ
 promise freshness, quality, and sustainability. We take pride in offering top-tier 
 beef products that cater to every taste, ensuring a delightful dining experience 
 from farm to table. 
-Dairy Cattle Products 
+Dairy Cattle Products </br>
 Our dairy products are crafted from carefully selected dairy cattle, providing a 
 variety of rich, flavorful, and nutritious options. We offer fresh cow milk, perfect 
 for everyday use, as well as thick, creamy yoghurt and milked milk for those who 
@@ -59,7 +59,7 @@ made with premium milk for a rich, tangy flavor. We also offer a selection of
 delicious cheeses to enhance your meals. With our dairy range, we guarantee 
 freshness, taste, and quality in every product, bringing wholesome options 
 straight from our cows to your kitchen. 
-OUR SERVICES 
+OUR SERVICES </br>
 In-Person Services 
 At Modernized Farming & Cattle Business, we offer personalized in-person 
 services to provide hands-on assistance tailored to meet your specific needs. Our 
@@ -70,7 +70,7 @@ guidance every step of the way. Face-to-face interactions are essential to build
 long-term relationships, ensuring effective collaboration, and establishing trust. 
 We take pride in offering tailored strategies that align with your goals, ensuring 
 that each project is executed to the highest standards. 
-Online Services 
+Online Services </br>
 In addition to our in-person services, we offer flexible and convenient online 
 services for clients who prefer remote interactions. Through advanced digital tools 
 and platforms, we deliver the same high-quality service as our in-person offerings. 
@@ -79,14 +79,14 @@ and digital marketing strategies, all designed to help your business succeed. Wi
 seamless communication and efficient collaboration, we ensure that your needs 
 are met, regardless of location, providing expert advice and support at your 
 convenience. 
-Our Website and Link 
+Our Website and Link </br>
 For more details on our services, please visit our website, where you'll find 
 comprehensive information on both our in-person and online offerings. You can 
 also access resources, case studies, and testimonials that showcase the impact of 
 our services. Our website serves as your go-to hub to explore how we can help 
 you achieve your business goals. Visit our website to learn more and get started 
 today.  
-CONTACT PAGE 
+CONTACT PAGE </br>
 We’d love to hear from you! Connect with us through the following platforms for 
 inquiries, support, or more information: 
 • WhatsApp: Reach out for quick assistance. 

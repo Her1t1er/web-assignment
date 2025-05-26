@@ -1,5 +1,10 @@
 # web-assignment
 
+## 🌐 Live Website
+
+👉 [Visit the site here](https://groupwork.ct.ws/)
+
+
 
 DESCRIPTION  OF MODERNIZED FARMING & CATTLE TSS SCHOOL'S BUSINESS PROJECT</br> 
 
